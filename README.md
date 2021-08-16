@@ -86,7 +86,7 @@ Fork本仓库，而后在Settings-Secrets中添加以下secret
 |变量名|含义|
 | --- | --- |
 |NAME |用户名（学号）|
-|PASSWORD|密码|
+|PASSWORD|密码|8
 
 ### 第二步
 到Action页面，启用workflow。然后随意修改`README.md`并提交一次commit，检查workflow运行情况
